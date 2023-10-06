@@ -1,4 +1,4 @@
-// 268Missing number
+// leetcode Quesion 268. Missing number
 // https://leetcode.com/problems/missing-number/
 public class MissingNumber {
     public static void main(String[] args) {
